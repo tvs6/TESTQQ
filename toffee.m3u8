@@ -1,10 +1,1 @@
-
-    "name": "IPL VIP",
-    "link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png",
-    "origin": "https://mprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1715113246:KeyName=prod_live_events:Signature=z_5ai0U8hkVhFtde1w6AhETSSuFvDstBnaYtAM2Rdj-moWxE-jVo2Qd1HravF_NbFHFlgdkEELUJm9loyAmRAg",
-    "drmScheme": "",
-    "drmLicense": ""
+https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717812309:KeyName=prod_live_events:Signature=7Rn4c018aiYK77Vb5ySXN9J-HuJv9PaIsR_Rl1Xt6PK2gdTxPaapcGh5hBe1XfOI9mn6kF33UCQywA8r9otjCg
