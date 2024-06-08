@@ -1,1 +1,14 @@
-#EXTM3U #EXT-X-TARGETDURATION:5 #EXT-X-MEDIA-SEQUENCE:429460112 #EXT-X-VERSION:3 #EXT-X-KEY:METHOD=AES-128,URI="ts.php?url=https://mprod-cdn-key.toffeelive.com/iccenglish-m1-key/15be93f0-eafe-4954-81af-846bcd5d94f7_0_1717839690.key",IV=0x131C51B9DDC2ABAE3E896AA13111F12D #EXTINF:4.000, ts.php?url=https://mprod-cdn.toffeelive.com/live/match-1/master_640/1717839925.ts #EXTINF:4.000, ts.php?url=https://mprod-cdn.toffeelive.com/live/match-1/master_640/1717839929.ts #EXTINF:4.000, ts.php?url=https://mprod-cdn.toffeelive.com/live/match-1/master_640/1717839933.ts #EXTINF:4.000, ts.php?url=https://mprod-cdn.toffeelive.com/live/match-1/master_640/1717839937.ts #EXTINF:4.000, ts.php?url=https://mprod-cdn.toffeelive.com/live/match-1/master_640/1717839941.ts #EXTINF:4.000, ts.php?url=https://mprod-cdn.toffeelive.com/live/match-1/master_640/1717839945.ts #EXTINF:4.000, ts.php?url=https://mprod-cdn.toffeelive.com/live/match-1/master_640/1717839949.ts #EXTINF:4.000, ts.php?url=https://mprod-cdn.toffeelive.com/live/match-1/master_640/1717839953.ts #EXTINF:4.000, ts.php?url=https://mprod-cdn.toffeelive.com/live/match-1/master_640/1717839957.ts #EXTINF:4.000, ts.php?url=https://mprod-cdn.toffeelive.com/live/match-1/master_640/1717839961.ts
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1519752,AVERAGE-BANDWIDTH=1519752,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000
+https://retosbd.com/toffe/stream.php?id=match-1&cid=master_1300.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1213256,AVERAGE-BANDWIDTH=1213256,CODECS="avc1.64001f,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000
+https://retosbd.com/toffe/stream.php?id=match-1&cid=master_1000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1059992,AVERAGE-BANDWIDTH=1059992,CODECS="avc1.64001e,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000
+https://retosbd.com/toffe/stream.php?id=match-1&cid=master_850.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=714632,AVERAGE-BANDWIDTH=714632,CODECS="avc1.64001e,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000
+https://retosbd.com/toffe/stream.php?id=match-1&cid=master_640.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=559336,AVERAGE-BANDWIDTH=559336,CODECS="avc1.4d4015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000
+https://retosbd.com/toffe/stream.php?id=match-1&cid=master_360.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=342696,AVERAGE-BANDWIDTH=342696,CODECS="avc1.42e00c,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=256x144,FRAME-RATE=25.000
+https://retosbd.com/toffe/stream.php?id=match-1&cid=master_180.m3u8
