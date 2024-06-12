@@ -9,3 +9,21 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 #EXTINF:-1 tvg-id=ts1070 tvg-logo="https://i.ibb.co/9GPTZ2z/Screenshot-2024-06-03-114018.png" group-title="T20-WC",World Cup Eng Prime Video
 https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd
 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+#EXTINF:-1 tvg-id="78" group-title="T20 World Cup", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png", Star Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"c+BdKIwlY2qQKmaPykjjaQ","kid":"fqABdWHXUNyrf0COxSwOug"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1718164218~acl=%2f*~data=hdntl~hmac=f3499f94352b76da81dc71be1f19471c3c64d37b20ed060c3c50c138aa18153c"}
+https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd|cookie:hdntl=exp=1718164218~acl=%2f*~data=hdntl~hmac=f3499f94352b76da81dc71be1f19471c3c64d37b20ed060c3c50c138aa18153c
+
+#EXTINF:-1 tvg-id="24" group-title="T20 World Cup", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png", Star Sports 1 Hindi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jMrvFkWfNIDKWkCfYjXGCg","kid":"s9jcOS+4X/GzNviJ40RL1g"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1718164218~acl=%2f*~data=hdntl~hmac=f3499f94352b76da81dc71be1f19471c3c64d37b20ed060c3c50c138aa18153c"}
+https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd|cookie:hdntl=exp=1718164218~acl=%2f*~data=hdntl~hmac=f3499f94352b76da81dc71be1f19471c3c64d37b20ed060c3c50c138aa18153c
+
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/9GPTZ2z/Screenshot-2024-06-03-114018.png" tvg-logo="https://i.ibb.co/9GPTZ2z/Screenshot-2024-06-03-114018.png" group-title="T20 World Cup",Star Sports 1 Hindi (World Wide)1
+http://allinonereborn.tech/allinone.php?id=54059
